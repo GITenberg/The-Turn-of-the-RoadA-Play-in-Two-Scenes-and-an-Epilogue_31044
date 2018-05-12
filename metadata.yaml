@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9128'
     url: http://www.gutenberg.org/2009/agents/9128
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31044#The-Turn-of-the-RoadA-Play-in-Two-Scenes-and-an-Epilogue
 gutenberg_issued: '2010-01-23'
 gutenberg_type: Text
 identifiers:
